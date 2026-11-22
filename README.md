@@ -5,6 +5,8 @@
 
 [📦 下载 / Downloads](https://github.com/akura-x/ChibiMotion/releases) · [🐛 反馈问题 / Report an issue](https://github.com/akura-x/ChibiMotion/issues)
 
+> **v0.6.0 Beta 更新准备中 / Coming next:** 双小人自由摆放、各自独立摇晃，以及每次启动前的使用声明。查看 [v0.6 更新说明](RELEASE_NOTES_v0.6.0.md)。新版本须在 Releases 正式发布后才能下载。
+
 > **v0.5.1 Beta · Windows 10/11 (64-bit) · 免费使用 / Free to use · 闭源发行 / Closed source**  
 > 这是预览测试版本。正式下载文件以 [Releases](https://github.com/akura-x/ChibiMotion/releases) 页面实际发布的附件为准。
 
